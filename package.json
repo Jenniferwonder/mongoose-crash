@@ -1,0 +1,28 @@
+{
+	"name": "mongoose-crash",
+	"version": "1.0.0",
+	"description": "",
+	"main": "script.js",
+	"scripts": {
+		"dev": "nodemon script.js",
+		"devBlog": "nodemon mongo.js"
+	},
+  "type": "module", 
+	"repository": {
+		"type": "git",
+		"url": "git+https://github.com/Jenniferwonder/mongoose-crash.git"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"bugs": {
+		"url": "https://github.com/Jenniferwonder/mongoose-crash/issues"
+	},
+	"homepage": "https://github.com/Jenniferwonder/mongoose-crash#readme",
+	"dependencies": {
+		"mongoose": "^7.0.2"
+	},
+	"devDependencies": {
+		"nodemon": "^2.0.21"
+	}
+}
