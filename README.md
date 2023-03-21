@@ -19,5 +19,5 @@ This is a simple project to quickly learn how to integrate Mongoose with local M
 
 ## 参考资料 Reference
 
-[Mongoose v7.0.2: Getting Started](https://mongoosejs.com/docs/index.html)
-[Getting Started with MongoDB & Mongoose | MongoDB](https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/)
+- [Mongoose v7.0.2: Getting Started](https://mongoosejs.com/docs/index.html)
+- [Getting Started with MongoDB & Mongoose | MongoDB](https://www.mongodb.com/developer/languages/javascript/getting-started-with-mongodb-and-mongoose/)
